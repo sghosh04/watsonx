@@ -1,0 +1,78 @@
+        [
+          {
+            "input": "Refrigerator leaks water",
+            "output": "Refrigerator"
+          },
+          {
+            "input": "Refrigerator is not cooling",
+            "output": "Refrigerator"
+          },
+          {
+            "input": "Dishwasher no longer drains",
+            "output": "Dishwasher"
+          },
+          {
+            "input": "My dishwasher no longer turns",
+            "output": "Dishwasher"
+          },
+          {
+            "input": "Dryer is not heating and drying",
+            "output": "Dryer"
+          },
+          {
+            "input": "My dryer not drying clothes properly",
+            "output": "Dryer"
+          },
+          {
+            "input": "Gas range won’t light up",
+            "output": "Range"
+          },
+          {
+            "input": "My electric range won't heat up",
+            "output": "Range"
+          },
+          {
+            "input": "Front-loading washing machine does not turn anymore",
+            "output": "Washer"
+          },
+          {
+            "input": "My washing machine has mold around the door",
+            "output": "Washer"
+          },
+          {
+            "input": "My oven is not heating up",
+            "output": "Oven"
+          },
+          {
+            "input": "My oven is not pre-heating",
+            "output": "Oven"
+          },
+          {
+            "input": "Microwave is not heating food",
+            "output": "Microwave"
+          },
+          {
+            "input": "Microwave is not defrosting frozen food packages",
+            "output": "Microwave"
+          },
+          {
+            "input": "Water heater is not heating water",
+            "output": "Water Heater"
+          },
+          {
+            "input": "Water heater is not generating hot water",
+            "output": "Water Heater"
+          },
+          {
+            "input": "My air conditioner is not cooling",
+            "output": "Air Conditioner"
+          },
+          {
+            "input": "My air conditioner is running but not cooling",
+            "output": "Air Conditioner"
+          },
+          {
+            "input": "My AC is running but not cooling",
+            "output": "Air Conditioner"
+          }
+        ]
